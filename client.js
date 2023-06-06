@@ -97,7 +97,17 @@ function grabInfo () {
   }
 
 }
+
 grabInfo()
+
+
+
+
+
+
+
+
+
   // {
   //   name: 'Atticus',
   //   employeeNumber: '2405',
